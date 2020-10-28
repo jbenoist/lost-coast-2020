@@ -61,5 +61,6 @@ Our permit is `North` to `South` over `4 nights`, which should be plenty. This d
 * High top boots
 * Gaiters
 * Hat
+* Poles
 
 * THC
