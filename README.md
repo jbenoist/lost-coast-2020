@@ -47,6 +47,7 @@ Our permit is `North` to `South` over `4 nights`, which should be plenty. This d
 * Toothpaste
 * Toothbrush
 * Towel
+* Wet wipes
 
 * GPS
 * Phone
