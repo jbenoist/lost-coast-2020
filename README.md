@@ -34,6 +34,7 @@ Our permit is `North` to `South` over `4 nights`, which should be plenty. This d
 * Lighter/flint
 * Water filter
 * Water container
+* Coffee filter
 
 * Bear cannister (1p)
 * Tea
